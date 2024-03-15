@@ -31,4 +31,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
   <h2> Making changes to the project, AGAIN</h2>
+  <h2> Making changes to the project, AGAIN</h2>
 </form>
